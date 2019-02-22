@@ -22,3 +22,8 @@ Based on the blog post published in the
 blog.magmalabs.io
 ```
 
+## If you want to see react-responsive package working
+```
+git checkout react-responsive
+npm start
+```
